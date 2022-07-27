@@ -58,7 +58,14 @@ $response = $weather->getWeather('深圳');
 ## 获取近期天气预报
 
 ```shell
+// 获取天气预报
 $response = $weather->getWeather('深圳','all');
+
+// 获取实时天气
+$response = $w->getLiveWeather('深圳');
+
+// 获取天气预报
+$response = $w->getForecastsWeather('深圳');
 ```
 
 ## 获取近期天气预报 示例
