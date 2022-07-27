@@ -24,4 +24,4 @@ jobs:
               run: composer install
             # 执行 PHPUnit 测试
             - name: PHPUnit check
-              run: ./vendor/bin/phpunit --coverage-text
+              run: ./vendor/bin/phpunit --coverage-text ./tests
