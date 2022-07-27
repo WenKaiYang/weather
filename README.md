@@ -2,6 +2,8 @@
 
 [![Tests](https://github.com/WenKaiYang/weather/actions/workflows/tests.yml/badge.svg)](https://github.com/WenKaiYang/weather/actions/workflows/tests.yml)
 
+![StyleCI build status](https://github.styleci.io/repos/vZyn7V/shield)
+
 > 基于 高德开放平台 的 PHP 天气信息组件。
 
 
