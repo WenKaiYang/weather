@@ -1,13 +1,13 @@
 <?php
 
-namespace Ella123\Weather\Tests;
-use Ella123\Weather\Exceptions\HttpException;
+namespace WenKaiYang\Weather\Tests;
+use WenKaiYang\Weather\Exceptions\HttpException;
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Psr7\Response;
 use Mockery\Matcher\AnyArgs;
-use Ella123\Weather\Exceptions\InvalidArgumentException;
-use Ella123\Weather\Weather;
+use WenKaiYang\Weather\Exceptions\InvalidArgumentException;
+use WenKaiYang\Weather\Weather;
 use PHPUnit\Framework\TestCase;
 
 class WeatherTest extends TestCase

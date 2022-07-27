@@ -1,9 +1,9 @@
 <?php
 
-namespace Ella123\Weather;
+namespace WenKaiYang\Weather;
 
-use Ella123\Weather\Exceptions\HttpException;
-use Ella123\Weather\Exceptions\InvalidArgumentException;
+use WenKaiYang\Weather\Exceptions\HttpException;
+use WenKaiYang\Weather\Exceptions\InvalidArgumentException;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 

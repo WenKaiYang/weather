@@ -1,17 +1,17 @@
 {
-    "name": "ella123/weather",
+    "name": "wenkaiyang/weather",
     "description": "description",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
         {
-            "name": "ELLa123",
+            "name": "WenKaiYang",
             "email": "313097973@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Ella123\\Weather\\": "./src/"
+            "WenKaiYang\\Weather\\": "./src/"
         }
     },
     "require": {

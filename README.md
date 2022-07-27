@@ -18,7 +18,7 @@ composer require ella123/weather -vvv
 ---
 
 ```shell
-use Ella123\Weather\Weather;
+use WenKaiYang\Weather\Weather;
 
 $key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx';
 
