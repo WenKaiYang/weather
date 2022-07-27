@@ -6,7 +6,7 @@
 ---
 
 ```shell
-composer require ella123/weather -vvv
+composer require wenkaiyang/weather -vvv
 ```
 
 # 配置
