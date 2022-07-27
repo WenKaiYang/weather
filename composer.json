@@ -1,0 +1,24 @@
+{
+    "name": "ella123/weather",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "ELLa123",
+            "email": "313097973@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ella123\\Weather\\": "./src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.5"
+    }
+}
